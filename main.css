@@ -1,0 +1,48 @@
+*,
+* ::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    border-color: rgb(14, 37, 58);
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 24px;
+    background-image: url(1641745829_31-www-funnyart-club-p-foni-tsveta-khaki-33.png);
+}
+.bona-nova-sc-bold {
+    font-family: "Bona Nova SC", serif;
+    font-weight: 700;
+    font-style: normal;
+} 
+  .playwrite-pe-shrift {
+    font-family: "Playwrite PE", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}  
+  .wrapperIMG img{
+    width: 100%;
+}
+.Text2 p {
+  padding: 8px;
+    margin: 10px;background: rgb(29,112,33);
+    background: radial-gradient(circle, rgba(29,112,33,1) 0%, rgba(19, 159, 35, 0.384) 50%, rgba(1,255,0,0.14609593837535018) 80%);
+}
+
+
+.Text2 ul{
+  padding: 25px;
+    margin: 125px;
+    background-color: #ffffff69;
+}
+.wrapper{
+  background-color: rgba(255, 255, 255, 0.486);
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;}
